@@ -150,13 +150,13 @@ compute_deductions(salary)
 # Brief report for Documentation:
 
 Technical debt identified
-- Lack of testing of the code that leads to error.
-- Refactoring the code structure
+>Lack of testing of the code that leads to error.
+>Refactoring the code structure
 
 Refactoring improvements made
-- Naming of variables for clarity.
-- Formatting the code structure to improve the consistency.
+>Naming of variables for clarity.
+>Formatting the code structure to improve the consistency.
 
 Challenges faced & solutions
-- Challenge faced is configuring out the code. 
-- Finding ways to improve the maintainability and reduce its technical debt.
+>Challenge faced is configuring out the code. 
+>Finding ways to improve the maintainability and reduce its technical debt.
