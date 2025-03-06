@@ -147,7 +147,7 @@ def get_salary_input():
 salary = get_salary_input()
 compute_deductions(salary)
 
-Brief report for Documentation:
+# Brief report for Documentation:
 
 Technical debt identified
 - Lack of testing of the code that leads to error.
