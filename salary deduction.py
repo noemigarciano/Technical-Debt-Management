@@ -54,4 +54,5 @@ def get_salary_input():
 
 
 salary = get_salary_input()
-compute_deductions(salary)
+
+compute_deductions(salary) 
